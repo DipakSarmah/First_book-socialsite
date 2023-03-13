@@ -48,10 +48,11 @@ Start the server and client both
 
 
 ## Screenshots
+![Screenshot 2023-03-13 183553](https://user-images.githubusercontent.com/92313801/224717809-0a5e43d6-2532-4877-9b18-81aa3d965267.png)
+![Screenshot 2023-03-13 184042](https://user-images.githubusercontent.com/92313801/224717823-b116548c-ac19-436a-b4fd-dbf56142ca7f.png)
 
-![App Screenshot](https://drive.google.com/file/d/1pRCqfLW6L0CSHzqIxMy93DWfw9Z8yjZO/view?usp=share_link)
-![App Screenshot](https://drive.google.com/file/d/1pRCqfLW6L0CSHzqIxMy93DWfw9Z8yjZO/view?usp=share_link)
+![LOGO](https://user-images.githubusercontent.com/92313801/224718027-01b72adc-6ff9-4ca1-b8f5-e3832db4e027.png)
 
 
-![Logo](https://drive.google.com/file/d/1MB3bxAdYkTB4-I8jI0S2qvUel0aOJnhN/view?usp=sharing)
+
 
